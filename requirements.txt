@@ -1,0 +1,10 @@
+User Authentication
+Spotify API
+Responsive Design
+Material UI
+React Context API(like Redux)
+Modern Tech
+React Hooks Functional(Hooks , state)
+Entire react tech stack
+
+a6a5a64c70f04c7a901e902745796ac7
